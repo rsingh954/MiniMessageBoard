@@ -1,0 +1,32 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+.form-group{
+  margin-bottom: 15px;
+}
+
+.form-control{
+  margin-bottom: 15px;
+}
+
+button{
+  margin-left: 60px;
+}
+.message-container{
+  display: flex;
+  flex-direction: column;
+
+}
+ol{
+  border: #00B7FF 1px solid;
+  padding: 25px
+}
+p{
+  color: lightgray;
+  font-style: italic;
+}
